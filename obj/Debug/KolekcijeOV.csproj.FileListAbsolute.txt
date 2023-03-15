@@ -1,0 +1,10 @@
+C:\Users\korisnik\source\repos\KolekcijeOV\bin\Debug\KolekcijeOV.exe.config
+C:\Users\korisnik\source\repos\KolekcijeOV\bin\Debug\KolekcijeOV.exe
+C:\Users\korisnik\source\repos\KolekcijeOV\bin\Debug\KolekcijeOV.pdb
+C:\Users\korisnik\source\repos\KolekcijeOV\obj\Debug\KolekcijeOV.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\KolekcijeOV\obj\Debug\KolekcijeOV.Form1.resources
+C:\Users\korisnik\source\repos\KolekcijeOV\obj\Debug\KolekcijeOV.Properties.Resources.resources
+C:\Users\korisnik\source\repos\KolekcijeOV\obj\Debug\KolekcijeOV.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\KolekcijeOV\obj\Debug\KolekcijeOV.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\KolekcijeOV\obj\Debug\KolekcijeOV.exe
+C:\Users\korisnik\source\repos\KolekcijeOV\obj\Debug\KolekcijeOV.pdb
